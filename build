@@ -1,0 +1,1 @@
+chrome.exe --pack-extension=./extension --pack-extension-key=steam-cards-getter.pem
