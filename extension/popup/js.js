@@ -1,6 +1,6 @@
 var links = {
-    github: 'https://github.com/littleguga/steam-cards-getter',
-    docs: 'https://github.com/littleguga/steam-cards-getter/blob/master/README.md',
+    github: 'https://github.com/lgg/steam-cards-getter',
+    docs: 'https://github.com/lgg/steam-cards-getter/blob/master/README.md',
     start: 'http://store.steampowered.com/explore/'
 };
 
