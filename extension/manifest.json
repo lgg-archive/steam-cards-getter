@@ -14,7 +14,8 @@
   },
   "permissions": [
     "storage",
-    "http://store.steampowered.com/"
+    "http://store.steampowered.com/",
+    "https://store.steampowered.com/"
   ],
   "background": {
     "scripts": [
@@ -25,7 +26,8 @@
   "content_scripts": [
     {
       "matches": [
-        "http://store.steampowered.com/*"
+        "http://store.steampowered.com/*",
+        "https://store.steampowered.com/*"
       ],
       "js": [
         "content-scripts/steam-cards-getter-content-script.js"
